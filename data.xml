@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <name>Love</name>
+        <author>A. Johnson</author>
+    </book>
+    <book>
+        <name>Horror</name>
+        <author>H. Lovecraft</author>
+    </book>
+</library>
